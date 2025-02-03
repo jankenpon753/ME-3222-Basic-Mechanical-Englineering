@@ -1,12 +1,12 @@
 INFO:  latexindent.pl version 3.24.4, 2024-07-18, a script to indent .tex files
        latexindent.pl lives here: /opt/homebrew/Cellar/latexindent/3.24.4/libexec/bin/
-       Mon Feb  3 21:16:16 2025
-       Filename: /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR5/__latexindent_temp_rejuan_sir_cover.tex
+       Mon Feb  3 21:19:47 2025
+       Filename: /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR2/__latexindent_temp_rejuan_sir_cover.tex
 INFO:  Processing switches:
        -y|--yaml: YAML settings specified via command line
        -c|--cruft: cruft directory
-INFO:  Directory for backup files and log file /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR3/indent.log:
-       /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR3/
+INFO:  Directory for backup files and log file /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR5/indent.log:
+       /Users/md.tajim/Academics/3-2/ME 3219 Basic Mechanical Englineering/Lab Materials/LR5/
 INFO:  Perl modules are being loaded from the following directories:
        /opt/homebrew/opt/perl/lib/perl5/5.40/FindBin.pm
        /opt/homebrew/Cellar/latexindent/3.24.4/libexec/lib/perl5/YAML/Tiny.pm
